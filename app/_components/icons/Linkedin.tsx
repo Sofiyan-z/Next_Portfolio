@@ -1,6 +1,4 @@
-'use client'; // Indique que ce composant doit être rendu côté client
-
-import React, { ComponentPropsWithoutRef } from 'react';
+import React, { ComponentPropsWithoutRef } from 'react'
 
 const LinkedinIcon = ({
   size = 24,
@@ -22,7 +20,7 @@ const LinkedinIcon = ({
         ></path>
       </g>
     </svg>
-  );
-};
+  )
+}
 
-export default LinkedinIcon;
+export default LinkedinIcon

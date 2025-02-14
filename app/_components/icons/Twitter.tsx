@@ -1,4 +1,3 @@
-'use client'; // Indique que ce composant doit être rendu côté client
 
 import React, { ComponentPropsWithoutRef } from 'react';
 

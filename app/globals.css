@@ -23,6 +23,7 @@
     --destructive: 4 84% 60%;
     --destructive-foreground: 0 0% 100%;
     --ring: 281 68% 12%;
+    --radius: 0.5rem;
   }
 }
 @layer base {
